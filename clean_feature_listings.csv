@@ -1,0 +1,463 @@
+Location,Property Type,Bedrooms,Bathrooms,Size (m2),Amenities,Price (KES),price_per_sqft,amenity_score,distance_to_cbd_km,total_rooms,room_density,bathroom_bedroom_ratio,is_luxury,property_category
+Westlands,Land,1,2,65.0,Swimming Pool,5500000.0,84615.38,2.0,2.93,3,0.0462,2.0,0,Other
+Kileleshwa,Apartment,1,2,65.0,Swimming Pool,6000000.0,92307.69,2.0,3.33,3,0.0462,2.0,0,Apartment
+Kileleshwa,Apartment,1,1,47.0,Swimming Pool,5100000.0,108510.64,2.0,3.33,2,0.0426,1.0,0,Apartment
+Lavington,Townhouse,5,6,875.8541337429396,En Suite,75000000.0,85630.7,0.5,5.48,11,0.0126,1.2,0,House
+Lavington,Townhouse,5,6,899.1200676119591,En Suite,81000000.0,90088.08,0.5,5.48,11,0.0122,1.2,0,House
+Lavington,Townhouse,6,7,1223.038473716685,En Suite,85000000.0,69499.04,0.5,5.48,13,0.0106,1.17,0,House
+Kileleshwa,Apartment,2,2,93.81527966541417,En Suite,9210000.0,98171.64,0.5,3.33,4,0.0426,1.0,0,Apartment
+Kileleshwa,Apartment,1,1,33.30947496764011,En Suite,3000000.0,90064.46,0.5,3.33,2,0.06,1.0,0,Apartment
+Karen,Villa,5,6,2916.439631439397,En Suite,190000000.0,65147.93,0.5,12.49,11,0.0038,1.2,0,House
+Kileleshwa,Studio,1,1,40.0,Gym,4200000.0,105000.0,2.0,3.33,2,0.05,1.0,0,Apartment
+Kilimani,Apartment,1,1,33.456141634306775,En Suite,3000000.0,89669.63,0.5,3.85,2,0.0598,1.0,0,Apartment
+Kilimani,Apartment,1,1,65.55650331300707,En Suite,7000000.0,106778.12,0.5,3.85,2,0.0305,1.0,0,Apartment
+Kilimani,Apartment,4,4,455.0070554758354,En Suite,13000000.0,28570.99,0.5,3.85,8,0.0176,1.0,0,Apartment
+Lavington,Apartment,4,4,454.1426492321708,En Suite,13500000.0,29726.34,0.5,5.48,8,0.0176,1.0,0,Apartment
+Kileleshwa,Apartment,4,5,382.34881899448055,En Suite,13000000.0,34000.37,0.5,3.33,9,0.0235,1.25,0,Apartment
+Kileleshwa,Apartment,3,3,108.6792097022128,En Suite,9000000.0,82812.53,0.5,3.33,6,0.0552,1.0,0,Apartment
+Kilimani,Apartment,1,1,76.0,En Suite,8360000.0,110000.0,0.5,3.85,2,0.0263,1.0,0,Apartment
+Kileleshwa,Apartment,2,2,70.23935915309323,En Suite,6000000.0,85422.19,0.5,3.33,4,0.0569,1.0,0,Apartment
+Westlands,Land,3,3,1040.2478911445507,En Suite,12000000.0,11535.71,0.5,2.93,6,0.0058,1.0,0,Other
+Kileleshwa,Apartment,4,4,372.9361683087978,En Suite,13500000.0,36199.22,0.5,3.33,8,0.0215,1.0,0,Apartment
+Westlands,Townhouse,1,2,65.0,"Swimming Pool, Gym, Garden, Parking, Borehole, Lift, En Suite, Balcony, CCTV, Generator, Fibre, Gate, Electric Fence",116082527.76604202,1785885.04,13.0,2.93,3,0.0462,2.0,1,House
+Westlands,Land,2,2,85.9101577882873,En Suite,7000000.0,81480.47,0.5,2.93,4,0.0466,1.0,0,Other
+Kilimani,Apartment,2,2,70.2772671353766,En Suite,6000000.0,85376.11,0.5,3.85,4,0.0569,1.0,0,Apartment
+Kilimani,Apartment,4,4,450.9041917575712,En Suite,13500000.0,29939.84,0.5,3.85,8,0.0177,1.0,0,Apartment
+Kilimani,Apartment,3,3,109.0664597022128,En Suite,9000000.0,82518.49,0.5,3.85,6,0.055,1.0,0,Apartment
+Westlands,Land,2,2,85.9101577882873,En Suite,7000000.0,81480.47,0.5,2.93,4,0.0466,1.0,0,Other
+Lavington,Apartment,4,5,442.9064670845849,En Suite,13000000.0,29351.57,0.5,5.48,9,0.0203,1.25,0,Apartment
+Westlands,Land,3,2,577.0089448827695,En Suite,13000000.0,22529.98,0.5,2.93,5,0.0087,0.67,0,Other
+Lavington,Apartment,3,3,120.25402737898048,En Suite,9000000.0,74841.57,0.5,5.48,6,0.0499,1.0,0,Apartment
+Kilimani,Apartment,1,1,73.0,En Suite,8030000.0,110000.0,0.5,3.85,2,0.0274,1.0,0,Apartment
+Lavington,Apartment,2,2,70.39594829739484,En Suite,6000000.0,85232.18,0.5,5.48,4,0.0568,1.0,0,Apartment
+Westlands,Land,1,1,1344.539200522753,En Suite,4000000.0,2975.0,0.5,2.93,2,0.0015,1.0,0,Other
+Lavington,Apartment,1,1,34.00280830097344,En Suite,3000000.0,88228.01,0.5,5.48,2,0.0588,1.0,0,Apartment
+Westlands,Townhouse,2,2,73.0,"Swimming Pool, Gym, Garden, Parking, Borehole, Lift, En Suite, Balcony, CCTV, Generator, Fibre, Gate, Electric Fence",20939103.756718,286837.04,13.0,2.93,4,0.0548,1.0,1,House
+Kilimani,Apartment,1,1,69.0,Swimming Pool,7590000.0,110000.0,2.0,3.85,2,0.029,1.0,0,Apartment
+Kilimani,Apartment,1,1,67.0,Swimming Pool,7370000.0,110000.0,2.0,3.85,2,0.0299,1.0,0,Apartment
+Westlands,Land,1,1,672.0,Swimming Pool,8100000.0,12053.57,2.0,2.93,2,0.003,1.0,0,Other
+Lavington,Townhouse,2,2,69.0,"Swimming Pool, Gym, Garden, Parking, Borehole, Lift, En Suite, Balcony, CCTV, Generator, Fibre, Gate, Electric Fence",15468361.09937534,224179.15,13.0,5.48,4,0.058,1.0,1,House
+Thika Road,Apartment,1,1,70.0,En Suite,5200000.0,74285.71,0.5,11.8,2,0.0286,1.0,0,Apartment
+Kilimani,Apartment,1,1,66.0,En Suite,7260000.0,110000.0,0.5,3.85,2,0.0303,1.0,0,Apartment
+Kilimani,Apartment,1,1,62.0,Swimming Pool,6820000.0,110000.0,2.0,3.85,2,0.0323,1.0,0,Apartment
+Westlands,Land,2,2,120.0,En Suite,11700000.0,97500.0,0.5,2.93,4,0.0333,1.0,0,Other
+Westlands,Land,2,2,110.0,En Suite,10700000.0,97272.73,0.5,2.93,4,0.0364,1.0,0,Other
+Westlands,Land,1,1,80.0,Swimming Pool,8200000.0,102500.0,2.0,2.93,2,0.025,1.0,0,Other
+Westlands,Land,1,1,70.0,En Suite,6700000.0,95714.29,0.5,2.93,2,0.0286,1.0,0,Other
+Westlands,Land,2,2,131.0,En Suite,14200000.0,108396.95,0.5,2.93,4,0.0305,1.0,0,Other
+Westlands,Land,2,2,110.0,En Suite,11900000.0,108181.82,0.5,2.93,4,0.0364,1.0,0,Other
+Kileleshwa,Apartment,3,3,147.97608789182715,En Suite,11000000.0,74336.33,0.5,3.33,6,0.0405,1.0,0,Apartment
+Kileleshwa,Apartment,2,2,71.77041410519493,En Suite,7000000.0,97533.23,0.5,3.33,4,0.0557,1.0,0,Apartment
+Kileleshwa,Apartment,1,1,40.38312294869301,En Suite,4000000.0,99051.28,0.5,3.33,2,0.0495,1.0,0,Apartment
+Lavington,Apartment,2,2,72.06475126536955,En Suite,7000000.0,97134.87,0.5,5.48,4,0.0555,1.0,0,Apartment
+Thika Road,Townhouse,1,1,70.0,"Swimming Pool, Gym, Garden, Parking, Borehole, Lift, En Suite, Balcony, CCTV, Generator, Fibre, Gate, Electric Fence",116128999.91932444,1658985.71,13.0,11.8,2,0.0286,1.0,1,House
+Lavington,Apartment,1,1,41.37945628202633,En Suite,4000000.0,96666.33,0.5,5.48,2,0.0483,1.0,0,Apartment
+Kileleshwa,Apartment,1,1,64.87432362205195,En Suite,6900000.0,106359.49,0.5,3.33,2,0.0308,1.0,0,Apartment
+Kileleshwa,Apartment,2,2,138.0,En Suite,13500000.0,97826.09,0.5,3.33,4,0.029,1.0,0,Apartment
+Kilimani,Apartment,1,1,70.0,En Suite,6900000.0,98571.43,0.5,3.85,2,0.0286,1.0,0,Apartment
+Dagoretti,Studio,1,1,23.11,Swimming Pool,2432000.0,105235.83,2.0,7.67,2,0.0865,1.0,0,Apartment
+Westlands,Land,2,2,120.0,"En Suite, SQ",12700000.0,105833.33,1.0,2.93,4,0.0333,1.0,0,Other
+Kilimani,Apartment,2,2,68.0,En Suite,7500000.0,110294.12,0.5,3.85,4,0.0588,1.0,0,Apartment
+Westlands,Land,1,1,55.0,"Swimming Pool, Rooftop",7800000.0,141818.18,2.5,2.93,2,0.0364,1.0,0,Other
+Karen,House,5,4,1533.880927003111,Garden,130000000.0,84752.34,0.5,12.49,9,0.0059,0.8,0,House
+Westlands,Land,2,3,139.0,"En Suite, SQ",15300000.0,110071.94,1.0,2.93,5,0.036,1.5,0,Other
+Westlands,Studio,1,1,43.0,"Swimming Pool, Gym",5900000.0,137209.3,4.0,2.93,2,0.0465,1.0,0,Apartment
+Westlands,Townhouse,2,1,138.0,"Swimming Pool, Gym, Garden, Parking, Borehole, Lift, En Suite, Balcony, CCTV, Generator, Fibre, SQ, Gate, Rooftop, Electric Fence",73645287.71394871,533661.51,14.0,2.93,3,0.0217,0.5,1,House
+Kileleshwa,Apartment,3,3,1791.0,"En Suite, SQ",22830000.0,12747.07,1.0,3.33,6,0.0034,1.0,0,Apartment
+Kileleshwa,Apartment,1,1,68.0,Swimming Pool,6900000.0,101470.59,2.0,3.33,2,0.0294,1.0,0,Apartment
+Kileleshwa,Apartment,5,6,367.0,"En Suite, SQ",41000000.0,111716.62,1.0,3.33,11,0.03,1.2,0,Apartment
+Westlands,Land,1,1,60.0,Swimming Pool,7000000.0,116666.67,2.0,2.93,2,0.0333,1.0,0,Other
+Kilimani,Apartment,2,3,96.0,En Suite,12000000.0,125000.0,0.5,3.85,5,0.0521,1.5,0,Apartment
+Kilimani,Apartment,2,2,72.08154358819979,En Suite,6950000.0,96418.58,0.5,3.85,4,0.0555,1.0,0,Apartment
+Westlands,Land,1,1,292.652900642355,En Suite,6000000.0,20502.1,0.5,2.93,2,0.0068,1.0,0,Other
+Kiambu,House,4,5,1189.0166766287134,Garden,73000000.0,61395.27,0.5,12.98,9,0.0076,1.25,0,House
+Karen,House,4,5,1472.8994217899224,Swimming Pool,85000000.0,57709.3,2.0,12.49,9,0.0061,1.25,0,House
+Westlands,Land,2,2,180.16800185480105,En Suite,13000000.0,72154.88,0.5,2.93,4,0.0222,1.0,0,Other
+Westlands,Land,1,1,1345.8340723176248,En Suite,4900000.0,3640.86,0.5,2.93,2,0.0015,1.0,0,Other
+Kileleshwa,Apartment,3,3,1560.7743317393813,En Suite,24000000.0,15376.98,0.5,3.33,6,0.0038,1.0,0,Apartment
+Westlands,Land,2,2,145.3403137311934,En Suite,14500000.0,99765.85,0.5,2.93,4,0.0275,1.0,0,Other
+Westlands,Land,1,2,60.0,Swimming Pool,7000000.0,116666.67,2.0,2.93,3,0.05,2.0,0,Other
+Westlands,Land,2,3,82.0,En Suite,11000000.0,134146.34,0.5,2.93,5,0.061,1.5,0,Other
+Westlands,Land,1,2,57.0,Swimming Pool,5200000.0,91228.07,2.0,2.93,3,0.0526,2.0,0,Other
+Lavington,Apartment,2,3,91.0,En Suite,9500000.0,104395.6,0.5,5.48,5,0.0549,1.5,0,Apartment
+Kileleshwa,Townhouse,4,4,1791.0,"Swimming Pool, Gym, Garden, Parking, Borehole, Lift, En Suite, Balcony, CCTV, Generator, Fibre, SQ, Gate, Electric Fence",116561038.09523807,65081.54,13.5,3.33,8,0.0045,1.0,0,House
+Westlands,Land,1,1,1344.539200522753,En Suite,4000000.0,2975.0,0.5,2.93,2,0.0015,1.0,0,Other
+Kileleshwa,Apartment,4,5,343.8041489629999,En Suite,18000000.0,52355.39,0.5,3.33,9,0.0262,1.25,0,Apartment
+Lavington,Apartment,2,3,122.0,En Suite,10000000.0,81967.21,0.5,5.48,5,0.041,1.5,0,Apartment
+Lavington,Apartment,1,2,64.0,Swimming Pool,6000000.0,93750.0,2.0,5.48,3,0.0469,2.0,0,Apartment
+Lavington,Apartment,1,2,64.0,Swimming Pool,5600000.0,87500.0,2.0,5.48,3,0.0469,2.0,0,Apartment
+Westlands,Land,2,3,132.0,En Suite,9900000.0,75000.0,0.5,2.93,5,0.0379,1.5,0,Other
+Westlands,Land,3,4,1912.2137767206032,"Swimming Pool, SQ",19500000.0,10197.6,2.5,2.93,7,0.0037,1.33,0,Other
+Roysambu,Apartment,1,1,497.40828526410274,En Suite,3300000.0,6634.39,0.5,11.34,2,0.004,1.0,0,Apartment
+Lavington,Townhouse,5,6,1255.0579581033062,En Suite,135000000.0,107564.75,0.5,5.48,11,0.0088,1.2,0,House
+Lavington,Townhouse,4,5,2334.548891212049,En Suite,168000000.0,71962.51,0.5,5.48,9,0.0039,1.25,0,House
+Lavington,Townhouse,6,7,2197.698839792292,En Suite,150000000.0,68253.21,0.5,5.48,13,0.0059,1.17,0,House
+Lavington,Townhouse,5,5,742.6926661854172,En Suite,95000000.0,127912.94,0.5,5.48,10,0.0135,1.0,0,House
+Lavington,Townhouse,5,5,1858.3182622879071,En Suite,160000000.0,86099.35,0.5,5.48,10,0.0054,1.0,0,House
+Lavington,Townhouse,5,6,1784.9489688289427,En Suite,150000000.0,84036.02,0.5,5.48,11,0.0062,1.2,0,House
+Lavington,Townhouse,6,7,1220.3649509894124,En Suite,86000000.0,70470.72,0.5,5.48,13,0.0107,1.17,0,House
+Lavington,Townhouse,5,6,916.4409519359684,En Suite,85000000.0,92750.11,0.5,5.48,11,0.012,1.2,0,House
+Lavington,Townhouse,5,5,748.9977495187503,En Suite,90000000.0,120160.57,0.5,5.48,10,0.0134,1.0,0,House
+Westlands,Townhouse,5,5,1337.4434466053642,En Suite,150000000.0,112154.27,0.5,2.93,10,0.0075,1.0,0,House
+Lavington,Townhouse,4,4,748.2502701474996,En Suite,58000000.0,77514.17,0.5,5.48,8,0.0107,1.0,0,House
+Kileleshwa,Townhouse,4,4,963.805778772617,En Suite,76000000.0,78854.06,0.5,3.33,8,0.0083,1.0,0,House
+Kileleshwa,Townhouse,4,5,867.3857279001983,En Suite,73000000.0,84160.94,0.5,3.33,9,0.0104,1.25,0,House
+Lavington,Townhouse,5,5,769.4440888044649,En Suite,110000000.0,142960.35,0.5,5.48,10,0.013,1.0,0,House
+Nairobi,Apartment,2,2,1768.469853173307,En Suite,12000000.0,6785.53,0.5,0.0,4,0.0023,1.0,0,Apartment
+Westlands,Land,4,4,1676.1472062366392,En Suite,18000000.0,10738.91,0.5,2.93,8,0.0048,1.0,0,Other
+Nairobi,Apartment,3,4,446.7381379112728,En Suite,17000000.0,38053.61,0.5,0.0,7,0.0157,1.33,0,Apartment
+Lavington,Apartment,3,3,210.17854941038695,En Suite,11000000.0,52336.45,0.5,5.48,6,0.0285,1.0,0,Apartment
+Westlands,Townhouse,3,3,65.0,"Swimming Pool, Gym, Garden, Parking, Borehole, Lift, En Suite, Balcony, CCTV, Generator, Fibre, Gate, Electric Fence",21432630.74229692,329732.78,13.0,2.93,6,0.0923,1.0,1,House
+Westlands,Land,2,3,132.0,En Suite,10000000.0,75757.58,0.5,2.93,5,0.0379,1.5,0,Other
+Kilimani,Apartment,5,6,1299.520122381305,En Suite,65000000.0,50018.46,0.5,3.85,11,0.0085,1.2,0,Apartment
+Kileleshwa,Apartment,1,1,60.11529886127463,Swimming Pool,5500000.0,91490.85,2.0,3.33,2,0.0333,1.0,0,Apartment
+Kilimani,Apartment,3,2,1254.7842963215537,En Suite,13700000.0,10918.21,0.5,3.85,5,0.004,0.67,0,Apartment
+Lavington,Apartment,2,2,356.768210501094,En Suite,10700000.0,29991.46,0.5,5.48,4,0.0112,1.0,0,Apartment
+Westlands,Townhouse,2,3,132.0,"Swimming Pool, Gym, Garden, Parking, Borehole, Lift, En Suite, Balcony, CCTV, Generator, Fibre, Gate, Electric Fence",75277923.02022977,570287.3,13.0,2.93,5,0.0379,1.5,1,House
+Lavington,Apartment,2,3,124.0,En Suite,9900000.0,79838.71,0.5,5.48,5,0.0403,1.5,0,Apartment
+Lavington,Apartment,1,2,64.0,Swimming Pool,5500000.0,85937.5,2.0,5.48,3,0.0469,2.0,0,Apartment
+Westlands,Land,1,2,65.0,Swimming Pool,6000000.0,92307.69,2.0,2.93,3,0.0462,2.0,0,Other
+Kilimani,Apartment,3,3,132.0,En Suite,13900000.0,105303.03,0.5,3.85,6,0.0455,1.0,0,Apartment
+Lavington,Townhouse,2,3,142.0,"Swimming Pool, Gym, Garden, Parking, Borehole, Lift, En Suite, Balcony, CCTV, Generator, Fibre, Gate, Electric Fence",68304214.68689644,481015.6,13.0,5.48,5,0.0352,1.5,1,House
+Westlands,Land,5,6,2636.6084511363874,En Suite,185000000.0,70165.9,0.5,2.93,11,0.0042,1.2,0,Other
+Lavington,Villa,5,5,744.773654000307,En Suite,95000000.0,127555.53,0.5,5.48,10,0.0134,1.0,0,House
+Kilimani,Apartment,2,2,1274.0,En Suite,13500000.0,10596.55,0.5,3.85,4,0.0031,1.0,0,Apartment
+Spring Valley,Townhouse,5,6,1019.3527924477974,"Garden, En Suite",110000000.0,107911.61,1.0,4.77,11,0.0108,1.2,0,House
+Kilimani,Apartment,2,2,1192.0,En Suite,13200000.0,11073.83,0.5,3.85,4,0.0034,1.0,0,Apartment
+Westlands,Land,2,2,223.89168241035657,En Suite,12500000.0,55830.57,0.5,2.93,4,0.0179,1.0,0,Other
+Lavington,Apartment,3,3,404.345350665956,En Suite,13000000.0,32150.73,0.5,5.48,6,0.0148,1.0,0,Apartment
+Kilimani,Apartment,2,2,1024.0,Swimming Pool,11300000.0,11035.16,2.0,3.85,4,0.0039,1.0,0,Apartment
+Lavington,Apartment,2,2,94.74348244319194,En Suite,9200000.0,97104.3,0.5,5.48,4,0.0422,1.0,0,Apartment
+Lavington,Apartment,1,1,64.16395562466052,En Suite,6500000.0,101302.98,0.5,5.48,2,0.0312,1.0,0,Apartment
+Lavington,Apartment,3,4,165.0,En Suite,15000000.0,90909.09,0.5,5.48,7,0.0424,1.33,0,Apartment
+Westlands,Land,2,3,122.0,En Suite,9800000.0,80327.87,0.5,2.93,5,0.041,1.5,0,Other
+Kilimani,Apartment,2,2,226.6335018595564,En Suite,10500000.0,46330.31,0.5,3.85,4,0.0176,1.0,0,Apartment
+Westlands,Land,4,5,866.2035106976804,En Suite,21000000.0,24243.73,0.5,2.93,9,0.0104,1.25,0,Other
+Kileleshwa,Apartment,2,2,128.0,Swimming Pool,12500000.0,97656.25,2.0,3.33,4,0.0312,1.0,0,Apartment
+Westlands,Land,2,2,744.9404560259989,En Suite,11900000.0,15974.43,0.5,2.93,4,0.0054,1.0,0,Other
+Kileleshwa,Apartment,2,2,119.0,En Suite,11200000.0,94117.65,0.5,3.33,4,0.0336,1.0,0,Apartment
+Kileleshwa,Apartment,2,2,111.0,En Suite,10400000.0,93693.69,0.5,3.33,4,0.036,1.0,0,Apartment
+Kilimani,Apartment,2,1,113.0,Swimming Pool,11200000.0,99115.04,2.0,3.85,3,0.0265,0.5,0,Apartment
+Westlands,Land,2,2,119.0,Swimming Pool,16600000.0,139495.8,2.0,2.93,4,0.0336,1.0,0,Other
+Westlands,Land,2,1,113.0,Swimming Pool,13200000.0,116814.16,2.0,2.93,3,0.0265,0.5,0,Other
+Westlands,Land,2,2,107.0,En Suite,14900000.0,139252.34,0.5,2.93,4,0.0374,1.0,0,Other
+Westlands,Townhouse,2,2,119.0,"Swimming Pool, Gym, Garden, Parking, Borehole, Lift, En Suite, Balcony, CCTV, Generator, Fibre, Gate, Electric Fence",93209434.13791928,783272.56,13.0,2.93,4,0.0336,1.0,1,House
+Westlands,Land,5,6,1338.5367859918113,En Suite,128000000.0,95626.81,0.5,2.93,11,0.0082,1.2,0,Other
+Westlands,Land,2,2,90.0,Swimming Pool,12900000.0,143333.33,2.0,2.93,4,0.0444,1.0,0,Other
+Kilimani,Apartment,1,1,65.0,Gym,6000000.0,92307.69,2.0,3.85,2,0.0308,1.0,0,Apartment
+Westlands,Land,1,1,58.0,Swimming Pool,8200000.0,141379.31,2.0,2.93,2,0.0345,1.0,0,Other
+Kilimani,Apartment,1,1,67.0,Gym,7200000.0,107462.69,2.0,3.85,2,0.0299,1.0,0,Apartment
+Kilimani,Apartment,2,1,97.0,Swimming Pool,9200000.0,94845.36,2.0,3.85,3,0.0309,0.5,0,Apartment
+Lavington,Apartment,2,1,90.0,Gym,9500000.0,105555.56,2.0,5.48,3,0.0333,0.5,0,Apartment
+Lavington,Apartment,1,1,60.0,Swimming Pool,6500000.0,108333.33,2.0,5.48,2,0.0333,1.0,0,Apartment
+Kilimani,Apartment,2,3,110.0,En Suite,11500000.0,104545.45,0.5,3.85,5,0.0455,1.5,0,Apartment
+Kilimani,Apartment,2,2,107.0,En Suite,11200000.0,104672.9,0.5,3.85,4,0.0374,1.0,0,Apartment
+Kilimani,Apartment,1,1,83.0,Swimming Pool,8700000.0,104819.28,2.0,3.85,2,0.0241,1.0,0,Apartment
+Kilimani,Apartment,1,1,61.0,Swimming Pool,6400000.0,104918.03,2.0,3.85,2,0.0328,1.0,0,Apartment
+Westlands,Land,3,3,158.0,"En Suite, SQ",19800000.0,125316.46,1.0,2.93,6,0.038,1.0,0,Other
+Lavington,Apartment,3,3,1367.8199568404043,En Suite,21000000.0,15352.9,0.5,5.48,6,0.0044,1.0,0,Apartment
+Nairobi,Studio,1,1,23.11,En Suite,2432000.0,105235.83,0.5,0.0,2,0.0865,1.0,0,Apartment
+Westlands,Land,2,1,130.0,Swimming Pool,17200000.0,132307.69,2.0,2.93,3,0.0231,0.5,0,Other
+Westlands,Villa,5,5,950.6279014944804,En Suite,120000000.0,126232.36,0.5,2.93,10,0.0105,1.0,0,House
+Westlands,Land,2,1,109.0,Swimming Pool,13800000.0,126605.5,2.0,2.93,3,0.0275,0.5,0,Other
+Lavington,Townhouse,3,3,23.11,"Swimming Pool, Gym, Garden, Parking, Borehole, Lift, En Suite, Balcony, CCTV, Generator, Fibre, Gate, Electric Fence",15247355.753968256,659773.07,13.0,5.48,6,0.2596,1.0,1,House
+Westlands,Land,1,1,481.4086005903044,En Suite,8100000.0,16825.62,0.5,2.93,2,0.0042,1.0,0,Other
+Kilimani,Apartment,2,2,75.0,SQ,7500000.0,100000.0,0.5,3.85,4,0.0533,1.0,0,Apartment
+Westlands,Land,1,1,87.0,Swimming Pool,9950000.0,114367.82,2.0,2.93,2,0.023,1.0,0,Other
+Westlands,Land,1,1,69.0,"Swimming Pool, Gym",7500000.0,108695.65,4.0,2.93,2,0.029,1.0,0,Other
+Westlands,Studio,1,1,48.0,Swimming Pool,6900000.0,143750.0,2.0,2.93,2,0.0417,1.0,0,Apartment
+Karen,Townhouse,4,5,399.0,En Suite,80000000.0,200501.25,0.5,12.49,9,0.0226,1.25,0,House
+Westlands,Land,2,1,113.0,Swimming Pool,11230000.0,99380.53,2.0,2.93,3,0.0265,0.5,0,Other
+Kileleshwa,Townhouse,3,3,75.0,"Swimming Pool, Gym, Garden, Parking, Borehole, Lift, En Suite, Balcony, CCTV, Generator, Fibre, Gate, Electric Fence",16043715.873015871,213916.21,13.0,3.33,6,0.08,1.0,1,House
+Riverside,Townhouse,4,5,938.173623404923,SQ,120000000.0,127908.09,0.5,2.29,9,0.0096,1.25,0,House
+Lavington,Townhouse,4,4,788.1168618349333,Garden,85000000.0,107852.03,0.5,5.48,8,0.0102,1.0,0,House
+Riverside,Apartment,3,3,2637.412658631421,SQ,38000000.0,14408.06,0.5,2.29,6,0.0023,1.0,0,Apartment
+Westlands,Townhouse,4,4,1357.830161166342,"Swimming Pool, Garden",85000000.0,62599.88,2.5,2.93,8,0.0059,1.0,0,House
+Industrial Area,Townhouse,1,5,56.0,"Swimming Pool, Gym, Garden, Lift, Balcony, CCTV, SQ",17000000.0,303571.43,8.0,3.29,6,0.1071,5.0,1,House
+Lavington,Apartment,1,1,56.0,SQ,6300000.0,112500.0,0.5,5.48,2,0.0357,1.0,0,Apartment
+Lavington,Apartment,1,1,50.0,SQ,5800000.0,116000.0,0.5,5.48,2,0.04,1.0,0,Apartment
+Lavington,Townhouse,5,5,769.4440888044649,Garden,110000000.0,142960.35,0.5,5.48,10,0.013,1.0,0,House
+Industrial Area,Townhouse,1,5,56.0,"Swimming Pool, Gym, Garden, Lift, Balcony, CCTV, SQ",17000000.0,303571.43,8.0,3.29,6,0.1071,5.0,1,House
+Kilimani,Apartment,3,3,142.0,SQ,14000000.0,98591.55,0.5,3.85,6,0.0423,1.0,0,Apartment
+Kilimani,Apartment,2,2,124.0,SQ,12500000.0,100806.45,0.5,3.85,4,0.0323,1.0,0,Apartment
+Kilimani,Apartment,2,2,112.0,SQ,11500000.0,102678.57,0.5,3.85,4,0.0357,1.0,0,Apartment
+Kilimani,Apartment,2,2,86.0,SQ,9500000.0,110465.12,0.5,3.85,4,0.0465,1.0,0,Apartment
+Kilimani,Apartment,1,1,64.0,SQ,7500000.0,117187.5,0.5,3.85,2,0.0312,1.0,0,Apartment
+Kilimani,Apartment,2,2,100.0,SQ,9500000.0,95000.0,0.5,3.85,4,0.04,1.0,0,Apartment
+Kilimani,Apartment,2,2,70.0,SQ,7500000.0,107142.86,0.5,3.85,4,0.0571,1.0,0,Apartment
+Kilimani,Apartment,1,1,60.0,SQ,5500000.0,91666.67,0.5,3.85,2,0.0333,1.0,0,Apartment
+Kilimani,Apartment,1,1,70.0,SQ,5800000.0,82857.14,0.5,3.85,2,0.0286,1.0,0,Apartment
+Kilimani,Apartment,2,2,107.0,SQ,8000000.0,74766.36,0.5,3.85,4,0.0374,1.0,0,Apartment
+Kilimani,Apartment,3,3,115.0,SQ,9800000.0,85217.39,0.5,3.85,6,0.0522,1.0,0,Apartment
+Kileleshwa,Apartment,3,3,140.0,SQ,13500000.0,96428.57,0.5,3.33,6,0.0429,1.0,0,Apartment
+Kileleshwa,Apartment,3,3,130.0,SQ,11000000.0,84615.38,0.5,3.33,6,0.0462,1.0,0,Apartment
+Lavington,Apartment,4,4,324.8776126840369,SQ,24000000.0,73873.97,0.5,5.48,8,0.0246,1.0,0,Apartment
+Kileleshwa,Apartment,4,4,211.0,SQ,23000000.0,109004.74,0.5,3.33,8,0.0379,1.0,0,Apartment
+Kileleshwa,Apartment,3,3,179.0,SQ,17000000.0,94972.07,0.5,3.33,6,0.0335,1.0,0,Apartment
+Nairobi,Townhouse,1,1,61.0,"Swimming Pool, Gym, Garden, Parking, Security, Borehole, Lift, En Suite, Balcony, CCTV, Generator, Fibre, Wi-Fi, Servant Quarter, SQ, Clubhouse, Playground, Gate, Intercom, Rooftop, Concierge, Jacuzzi, Store, Electric Fence",116163841.43447596,1904325.27,18.5,0.0,2,0.0328,1.0,1,House
+Lavington,House,1,1,61.0,"Swimming Pool, Gym, Garden, Parking, SQ, Rooftop, Concierge, Store",7059263.207434922,115725.63,7.0,5.48,2,0.0328,1.0,0,House
+Kileleshwa,Apartment,4,4,250.0,"Parking, Borehole, Lift, Balcony, Generator, SQ, Jacuzzi",22663443.444241032,90653.77,6.5,3.33,8,0.032,1.0,0,Apartment
+Nairobi,Townhouse,1,1,61.0,"Swimming Pool, Gym, Garden, Parking, Security, Borehole, Lift, Balcony, CCTV, Generator, Solar, SQ, Clubhouse, Gate, Intercom, Rooftop, Concierge, Store, Laundry, Electric Fence",116163841.43447596,1904325.27,16.5,0.0,2,0.0328,1.0,1,House
+Ngong,Townhouse,3,3,215.0,"Garden, Parking, Solar, SQ, Gate, Laundry",36039286.41579859,167624.59,3.0,19.76,6,0.0279,1.0,0,House
+Karen,Townhouse,5,5,450.0,"Swimming Pool, Garden, Parking, Security, Generator, Solar, SQ, Gate, Intercom, Laundry, Electric Fence",72621807.88326745,161381.8,9.0,12.49,10,0.0222,1.0,0,House
+Kileleshwa,Apartment,2,2,150.0,"Swimming Pool, Gym, Parking, Lift, Balcony, SQ, Laundry",13413385.073626757,89422.57,7.5,3.33,4,0.0267,1.0,0,Apartment
+Westlands,Land,2,1,80.0,"Swimming Pool, Gym, Parking, Security, Lift, Balcony, CCTV, SQ, Intercom",9743955.882651538,121799.45,9.0,2.93,3,0.0375,0.5,0,Other
+Ngong Road,Commercial,4,4,246.0,"Swimming Pool, Gym, Parking, Security, Borehole, Lift, Balcony, CCTV, Generator, SQ, Intercom",30383111.250620358,123508.58,12.0,6.88,8,0.0325,1.0,0,Other
+Nairobi West,Townhouse,4,4,2650.0,"Swimming Pool, Gym, Parking, Security, Borehole, Balcony, CCTV, Generator, Solar, SQ, Clubhouse, Intercom, Laundry",161085800.0,60787.09,12.0,3.85,8,0.003,1.0,0,House
+Westlands,Studio,2,2,68.0,"Swimming Pool, Parking, Borehole, Lift, CCTV, SQ, Store",8476779.144262016,124658.52,7.0,2.93,4,0.0588,1.0,0,Apartment
+Kilimani,Commercial,3,3,205.0,"Swimming Pool, Gym, Parking, Security, Lift, SQ, Rooftop",21633371.98514594,105528.64,8.0,3.85,6,0.0293,1.0,0,Other
+Westlands,Commercial,3,3,223.0,"Swimming Pool, Gym, Parking, Security, Borehole, Balcony, Generator, Solar, SQ, Gate, Intercom, Rooftop, Laundry",20830731.08130279,93411.35,12.0,2.93,6,0.0269,1.0,0,Other
+Westlands,Villa,6,6,2023.4,"Swimming Pool, Garden, Parking, Security, Borehole, CCTV, Generator, Fibre, Servant Quarter, SQ, Gate, Lift",206418772.43589744,102015.8,11.0,2.93,12,0.0059,1.0,0,House
+Westlands,Studio,1,1,68.0,"Swimming Pool, Parking, Borehole, Lift, CCTV, SQ, Store",8846568.800281769,130096.6,7.0,2.93,2,0.0294,1.0,0,Apartment
+Kitengela,Bungalow,3,4,464.0,"Garden, SQ, Gate",24219152.03665399,52196.45,1.5,25.19,7,0.0151,1.33,0,House
+Kitengela,Bungalow,3,3,456.0,"Garden, Parking, SQ, Gate",19574521.024127025,42926.58,2.0,25.19,6,0.0132,1.0,0,House
+Ngong,Maisonette,3,3,215.0,"Garden, Parking, Solar, SQ, Gate, Laundry",18450986.96067112,85818.54,3.0,19.76,6,0.0279,1.0,0,House
+Karen,Land,4,5,2024.0,"Garden, SQ, Gate",74816448.33193615,36964.65,1.5,12.49,9,0.0044,1.25,0,Other
+Karen,Commercial,3,4,2024.0,"Garden, Parking, En Suite, Solar, SQ, Sauna",42895359.20212547,21193.36,3.0,12.49,7,0.0035,1.33,0,Other
+Westlands,Townhouse,5,7,2428.1,"Swimming Pool, Garden, Parking, Solar, SQ",165883940.0,68318.41,4.0,2.93,12,0.0049,1.4,0,House
+Westlands,Land,1,1,67.0,"Swimming Pool, Gym, Garden, Parking, Security, CCTV, Generator, SQ, Rooftop",7362550.1887025405,109888.81,9.5,2.93,2,0.0299,1.0,0,Other
+Spring Valley,Townhouse,5,5,594.6,"Garden, Parking, Security, Borehole, Generator, Solar, SQ, Gate, Laundry",110155230.40506192,185259.39,7.0,4.77,10,0.0168,1.0,1,House
+Kileleshwa,Studio,1,1,48.0,"Swimming Pool, Gym, Parking, Borehole, Lift, Generator, SQ, Sauna",6680133.072228892,139169.44,10.0,3.33,2,0.0417,1.0,0,Apartment
+Kileleshwa,Apartment,1,1,63.0,"Swimming Pool, Gym, Parking, Borehole, Lift, Generator, SQ, Sauna",7138626.342750895,113311.53,10.0,3.33,2,0.0317,1.0,0,Apartment
+Kileleshwa,Apartment,2,2,85.0,"Swimming Pool, Gym, Parking, Borehole, Lift, Generator, SQ, Sauna",8867906.043595409,104328.31,10.0,3.33,4,0.0471,1.0,0,Apartment
+Lavington,Villa,5,5,557.4,"Swimming Pool, Gym, Parking, Security, Balcony, CCTV, Generator, Solar, SQ, Gate, Jacuzzi, Gazebo",148083248.63821772,265667.83,11.0,5.48,10,0.0179,1.0,1,House
+Kileleshwa,Apartment,3,3,203.0,"Gym, SQ",16302363.64354868,80307.21,2.5,3.33,6,0.0296,1.0,0,Apartment
+Westlands,Land,3,3,175.0,"Gym, Parking, Generator, SQ, Rooftop",16186504.610206775,92494.31,5.5,2.93,6,0.0343,1.0,0,Other
+Athi River,Maisonette,3,3,160.0,"Garden, Parking, Security, Solar, SQ, Gate",18567840.595467888,116049.0,3.5,25.98,6,0.0375,1.0,0,House
+Lavington,Studio,1,1,66.0,"Swimming Pool, Gym, Garden, Parking, CCTV, SQ, Playground, Intercom, Laundry, Lift",6750267.539536583,102276.78,9.5,5.48,2,0.0303,1.0,0,Apartment
+Westlands,Land,2,2,95.0,"Swimming Pool, Gym, Garden, Parking, Security, Borehole, CCTV, Generator, SQ, Intercom, Lift",12098679.825459396,127354.52,12.0,2.93,4,0.0421,1.0,0,Other
+Westlands,Studio,1,1,52.0,"Swimming Pool, Gym, Parking, Security, Borehole, CCTV, Generator, Solar, SQ, Intercom, Rooftop, Sauna, Lift",7097146.787089216,136483.59,13.0,2.93,2,0.0385,1.0,0,Apartment
+Nairobi,Bungalow,2,2,211.0,"Garden, Parking, SQ, Gate, Laundry",13576576.333950743,64343.96,2.5,0.0,4,0.019,1.0,0,House
+Kilimani,Land,3,3,150.0,"Swimming Pool, Gym, Garden, Parking, Borehole, En Suite, Servant Quarter, SQ, Gate, Store",16800000.0,112000.0,8.5,3.85,6,0.04,1.0,0,Other
+Kilimani,Apartment,3,3,150.0,SQ,10800000.0,72000.0,0.5,3.85,6,0.04,1.0,0,Apartment
+Kilimani,Apartment,2,2,87.0,SQ,9400000.0,108045.98,0.5,3.85,4,0.046,1.0,0,Apartment
+Kileleshwa,Apartment,3,3,180.0,"Swimming Pool, Gym, Servant Quarter, SQ",23000000.0,127777.78,5.0,3.33,6,0.0333,1.0,0,Apartment
+Garden Estate,Land,6,7,450.0,"Garden, SQ",55000000.0,122222.22,1.0,8.24,13,0.0289,1.17,0,Other
+Kileleshwa,Apartment,4,4,230.0,SQ,23000000.0,100000.0,0.5,3.33,8,0.0348,1.0,0,Apartment
+Kileleshwa,Apartment,1,1,59.80597061550723,SQ,5700000.0,95308.21,0.5,3.33,2,0.0334,1.0,0,Apartment
+Kileleshwa,Apartment,3,3,1298.6720999667157,"Parking, Borehole, Gate",22000000.0,16940.38,2.0,3.33,6,0.0046,1.0,0,Apartment
+Runda,House,5,5,500.0,SQ,110000000.0,220000.0,0.5,7.43,10,0.02,1.0,0,House
+Kasarani,Apartment,1,1,31.0,SQ,3500000.0,112903.23,0.5,11.8,2,0.0645,1.0,0,Apartment
+Kahawa,House,4,4,250.0,SQ,25000000.0,100000.0,0.5,16.05,8,0.032,1.0,0,House
+Kilimani,Apartment,3,3,135.0,"SQ, Store",14800000.0,109629.63,1.0,3.85,6,0.0444,1.0,0,Apartment
+Kilimani,Apartment,3,3,125.0,SQ,12000000.0,96000.0,0.5,3.85,6,0.048,1.0,0,Apartment
+Roysambu,Apartment,3,3,134.0,SQ,14500000.0,108208.96,0.5,11.34,6,0.0448,1.0,0,Apartment
+Kileleshwa,Apartment,3,3,286.362417224474,Garden,14500000.0,50635.14,0.5,3.33,6,0.021,1.0,0,Apartment
+Kilimani,Apartment,3,3,150.0,"En Suite, SQ",15000000.0,100000.0,1.0,3.85,6,0.04,1.0,0,Apartment
+Nairobi,Apartment,3,10,90.0,SQ,5000000.0,55555.56,0.5,0.0,13,0.1444,3.33,0,Apartment
+Kileleshwa,Apartment,3,3,160.0,SQ,15500000.0,96875.0,0.5,3.33,6,0.0375,1.0,0,Apartment
+Valley Arcade,Townhouse,3,3,150.0,"Parking, Borehole, Lift, En Suite, Balcony, SQ, Gate",16500000.0,110000.0,5.0,3.71,6,0.04,1.0,0,House
+Kileleshwa,Apartment,3,3,170.0,SQ,19000000.0,111764.71,0.5,3.33,6,0.0353,1.0,0,Apartment
+Lavington,House,4,4,234.0,SQ,80000000.0,341880.34,0.5,5.48,8,0.0342,1.0,0,House
+Karen,Maisonette,5,4,200.0,"Parking, SQ",95000000.0,475000.0,1.0,12.49,9,0.045,0.8,0,House
+Hurlingham,Apartment,3,3,171.0,"Lift, SQ",15000000.0,87719.3,2.0,4.38,6,0.0351,1.0,0,Apartment
+Kabete,Studio,1,1,25.5,SQ,2432000.0,95372.55,0.5,9.35,2,0.0784,1.0,0,Apartment
+Nairobi,Land,3,3,900.0,SQ,10000000.0,11111.11,0.5,0.0,6,0.0067,1.0,0,Other
+Nairobi,House,3,10,450.0,SQ,7000000.0,15555.56,0.5,0.0,13,0.0289,3.33,0,House
+South B,House,4,4,250.0,"En Suite, SQ",25000000.0,100000.0,1.0,3.1,8,0.032,1.0,0,House
+Kilimani,Studio,1,1,70.0,"SQ, Gate",4500000.0,64285.71,1.0,3.85,2,0.0286,1.0,0,Apartment
+Spring Valley,Villa,4,4,543.0,SQ,80000000.0,147329.65,0.5,4.77,8,0.0147,1.0,0,House
+Upperhill,Apartment,3,10,80.0,SQ,7900000.0,98750.0,0.5,0.42,13,0.1625,3.33,0,Apartment
+Buruburu,Land,4,6,500.0,SQ,15000000.0,30000.0,0.5,6.43,10,0.02,1.5,0,Other
+Westlands,Land,3,3,130.0,SQ,14450000.0,111153.85,0.5,2.93,6,0.0462,1.0,0,Other
+Embakasi,Land,1,5,500.0,SQ,70000000.0,140000.0,0.5,9.38,6,0.012,5.0,0,Other
+Lavington,Villa,5,5,350.0,"SQ, Gate",55000000.0,157142.86,1.0,5.48,10,0.0286,1.0,0,House
+Buruburu,Townhouse,4,5,260.0,SQ,15900000.0,61153.85,0.5,6.43,9,0.0346,1.25,0,House
+Kilimani,Apartment,3,3,251.0,"Balcony, SQ",35000000.0,139442.23,1.0,3.85,6,0.0239,1.0,0,Apartment
+Valley Arcade,Townhouse,5,5,450.0,SQ,75000000.0,166666.67,0.5,3.71,10,0.0222,1.0,0,House
+Kileleshwa,Apartment,3,3,269.66570246782373,"Borehole, Lift",13800000.0,51174.47,2.5,3.33,6,0.0222,1.0,0,Apartment
+Nairobi,Bungalow,2,2,100.0,SQ,2600000.0,26000.0,0.5,0.0,4,0.04,1.0,0,House
+Westlands,Villa,2,2,95.0,SQ,12600000.0,132631.58,0.5,2.93,4,0.0421,1.0,0,House
+Syokimau,Maisonette,4,3,225.0,"Garden, Security, SQ, Gate, Store",15000000.0,66666.67,3.0,11.23,7,0.0311,0.75,0,House
+Riverside,Apartment,4,4,280.0,"SQ, Gate",15000000.0,53571.43,1.0,2.29,8,0.0286,1.0,0,Apartment
+Kilimani,Apartment,1,1,60.0,SQ,7000000.0,116666.67,0.5,3.85,2,0.0333,1.0,0,Apartment
+Ongata Rongai,Maisonette,4,4,190.0,SQ,90000000.0,473684.21,0.5,14.22,8,0.0421,1.0,0,House
+Membley,House,6,5,300.0,"Security, SQ",19500000.0,65000.0,1.5,12.12,11,0.0367,0.83,0,House
+Ngong Road,Apartment,2,2,56.0,SQ,5360000.0,95714.29,0.5,6.88,4,0.0714,1.0,0,Apartment
+Kahawa Wendani,Bedsitter,8,7,2005.0,SQ,150000000.0,74812.97,0.5,16.84,15,0.0075,0.88,0,Apartment
+Kasarani,Maisonette,4,4,400.0,SQ,12500000.0,31250.0,0.5,11.8,8,0.02,1.0,0,House
+South C,Bungalow,3,3,120.0,"SQ, Gate",11000000.0,91666.67,1.0,3.4,6,0.05,1.0,0,House
+Parklands,Land,3,3,200.0,SQ,12500000.0,62500.0,0.5,2.72,6,0.03,1.0,0,Other
+South B,Maisonette,4,3,538.5098926565132,Gate,17500000.0,32497.08,0.5,3.1,7,0.013,0.75,0,House
+Ngong Road,Land,1,1,23.11,SQ,2432000.0,105235.83,0.5,6.88,2,0.0865,1.0,0,Other
+Runda,House,4,5,1000.0,SQ,120000000.0,120000.0,0.5,7.43,9,0.009,1.25,0,House
+Runda,Maisonette,4,4,429.0,SQ,42000000.0,97902.1,0.5,7.43,8,0.0186,1.0,0,House
+Kileleshwa,Apartment,3,3,90.0,SQ,13800000.0,153333.33,0.5,3.33,6,0.0667,1.0,0,Apartment
+Kahawa,Apartment,4,4,105.0,SQ,8400000.0,80000.0,0.5,16.05,8,0.0762,1.0,0,Apartment
+Embakasi,Maisonette,4,6,300.0,SQ,9999999.0,33333.33,0.5,9.38,10,0.0333,1.5,0,House
+Lavington,Commercial,2,3,90.0,SQ,9000000.0,100000.0,0.5,5.48,5,0.0556,1.5,0,Other
+Langata,House,4,4,246.0,SQ,38800000.0,157723.58,0.5,10.77,8,0.0325,1.0,0,House
+Langata,Townhouse,4,2,170.0,"Gym, Parking, Lift, SQ, Gate, Store",26000000.0,152941.18,5.5,10.77,6,0.0353,0.5,0,House
+Nairobi,Maisonette,4,4,297.0,SQ,14000000.0,47138.05,0.5,0.0,8,0.0269,1.0,0,House
+Kileleshwa,Apartment,2,2,96.0,SQ,10987788.0,114456.12,0.5,3.33,4,0.0417,1.0,0,Apartment
+Parklands,Land,3,3,2800.0,SQ,21000000.0,7500.0,0.5,2.72,6,0.0021,1.0,0,Other
+Nairobi,Maisonette,5,4,500.0,"SQ, Gate",16000000.0,32000.0,1.0,0.0,9,0.018,0.8,0,House
+Embakasi,Apartment,3,5,135.0,SQ,8750000.0,64814.81,0.5,9.38,8,0.0593,1.67,0,Apartment
+Kilimani,House,3,3,204.0,SQ,29400000.0,144117.65,0.5,3.85,6,0.0294,1.0,0,House
+Embakasi,Bungalow,4,6,450.0,"SQ, Gate",20000000.0,44444.44,1.0,9.38,10,0.0222,1.5,0,House
+Lavington,House,1,1,60.0,SQ,7600000.0,126666.67,0.5,5.48,2,0.0333,1.0,0,House
+Dagoretti,Bungalow,3,5,200.0,SQ,20000000.0,100000.0,0.5,7.67,8,0.04,1.67,0,House
+Kileleshwa,Bungalow,1,1,60.0,"Gym, Lift, SQ",7000000.0,116666.67,4.0,3.33,2,0.0333,1.0,0,House
+Westlands,Land,3,10,64.0,SQ,6500000.0,101562.5,0.5,2.93,13,0.2031,3.33,0,Other
+Runda,House,4,4,380.0,SQ,120000000.0,315789.47,0.5,7.43,8,0.0211,1.0,0,House
+Kabete,Apartment,2,2,334.83758322882056,Lift,12500000.0,37331.53,1.5,9.35,4,0.0119,1.0,0,Apartment
+Dagoretti,Apartment,1,3,80.0,"Parking, SQ, Lift",6500000.0,81250.0,2.5,7.67,4,0.05,3.0,0,Apartment
+Parklands,Land,3,3,190.0,SQ,14000000.0,73684.21,0.5,2.72,6,0.0316,1.0,0,Other
+Embakasi,Maisonette,3,5,250.0,SQ,9999999.0,40000.0,0.5,9.38,8,0.032,1.67,0,House
+Kahawa,Apartment,4,4,105.0,SQ,13000000.0,123809.52,0.5,16.05,8,0.0762,1.0,0,Apartment
+Nairobi,Bungalow,2,2,100.0,SQ,2600000.0,26000.0,0.5,0.0,4,0.04,1.0,0,House
+Westlands,Land,2,2,270.0,SQ,13500000.0,50000.0,0.5,2.93,4,0.0148,1.0,0,Other
+Mwiki,Bungalow,3,10,2500.0,SQ,6200000.0,2480.0,0.5,3.85,13,0.0052,3.33,0,House
+Valley Arcade,Townhouse,4,4,400.0,"SQ, Store",65000000.0,162500.0,1.0,3.71,8,0.02,1.0,0,House
+Westlands,Townhouse,4,2,2500.0,"Swimming Pool, Garden, SQ, Gate",26500000.0,10600.0,3.5,2.93,6,0.0024,0.5,0,House
+Lavington,Villa,5,4,557.0,"Swimming Pool, SQ",155000000.0,278276.48,2.5,5.48,9,0.0162,0.8,0,House
+Parklands,Land,3,3,200.0,SQ,19500000.0,97500.0,0.5,2.72,6,0.03,1.0,0,Other
+Hurlingham,Apartment,3,3,167.0,SQ,18000000.0,107784.43,0.5,4.38,6,0.0359,1.0,0,Apartment
+Nairobi,Apartment,2,2,95.0,SQ,8000000.0,84210.53,0.5,0.0,4,0.0421,1.0,0,Apartment
+Westlands,Land,3,3,200.0,SQ,28000000.0,140000.0,0.5,2.93,6,0.03,1.0,0,Other
+Westlands,Land,1,1,58.0,SQ,7300000.0,125862.07,0.5,2.93,2,0.0345,1.0,0,Other
+Kilimani,Apartment,4,4,400.0,SQ,28000000.0,70000.0,0.5,3.85,8,0.02,1.0,0,Apartment
+Dagoretti,Studio,1,2,24.0,SQ,2700000.0,112500.0,0.5,7.67,3,0.125,2.0,0,Apartment
+Hurlingham,Apartment,2,3,102.0,SQ,10500000.0,102941.18,0.5,4.38,5,0.049,1.5,0,Apartment
+Hurlingham,House,1,2,56.0,SQ,8800000.0,157142.86,0.5,4.38,3,0.0536,2.0,0,House
+Imara Daima,Villa,2,1,79.30102938304105,Garden,4500000.0,56745.8,0.5,8.83,3,0.0378,0.5,0,House
+Valley Arcade,Apartment,4,4,400.0,SQ,16000000.0,40000.0,0.5,3.71,8,0.02,1.0,0,Apartment
+Kilimani,Apartment,2,2,185.0,SQ,11000000.0,59459.46,0.5,3.85,4,0.0216,1.0,0,Apartment
+Ruiru,Maisonette,4,4,262.0,SQ,20500000.0,78244.27,0.5,22.35,8,0.0305,1.0,0,House
+Nairobi,Bungalow,3,3,152.0,"SQ, Gate",9750000.0,64144.74,1.0,0.0,6,0.0395,1.0,0,House
+Valley Arcade,Apartment,4,4,251.0,SQ,27000000.0,107569.72,0.5,3.71,8,0.0319,1.0,0,Apartment
+Nairobi,Bungalow,3,3,150.0,SQ,9750000.0,65000.0,0.5,0.0,6,0.04,1.0,0,House
+Lavington,Apartment,4,4,400.0,SQ,110000000.0,275000.0,0.5,5.48,8,0.02,1.0,0,Apartment
+Kileleshwa,Apartment,4,4,270.0,SQ,24500000.0,90740.74,0.5,3.33,8,0.0296,1.0,0,Apartment
+Kahawa Wendani,House,6,5,600.0,SQ,28000000.0,46666.67,0.5,16.84,11,0.0183,0.83,0,House
+Ridgeways,Townhouse,4,4,320.0,SQ,75000000.0,234375.0,0.5,7.64,8,0.025,1.0,0,House
+South B,Apartment,2,3,200.0,"Security, SQ",7000000.0,35000.0,1.5,3.1,5,0.025,1.5,0,Apartment
+Kasarani,Land,2,3,464.0,SQ,39500000.0,85129.31,0.5,11.8,5,0.0108,1.5,0,Other
+Kitisuru,Apartment,2,2,113.0,SQ,12500000.0,110619.47,0.5,6.42,4,0.0354,1.0,0,Apartment
+Imara Daima,Maisonette,4,3,200.0,SQ,16000000.0,80000.0,0.5,8.83,7,0.035,0.75,0,House
+Hurlingham,Maisonette,3,4,980.0,SQ,85000000.0,86734.69,0.5,4.38,7,0.0071,1.33,0,House
+Kileleshwa,Apartment,4,4,270.0,SQ,25800000.0,95555.56,0.5,3.33,8,0.0296,1.0,0,Apartment
+Kilimani,House,2,2,120.0,"SQ, Gate",14500000.0,120833.33,1.0,3.85,4,0.0333,1.0,0,House
+Westlands,Townhouse,4,4,250.0,SQ,50000000.0,200000.0,0.5,2.93,8,0.032,1.0,0,House
+Upper Hill,Apartment,3,3,174.0,SQ,19800000.0,113793.1,0.5,0.42,6,0.0345,1.0,0,Apartment
+Hurlingham,Studio,1,2,43.0,SQ,5200000.0,120930.23,0.5,4.38,3,0.0698,2.0,0,Apartment
+Westlands,Land,4,3,160.0,SQ,33650000.0,210312.5,0.5,2.93,7,0.0438,0.75,0,Other
+Westlands,Villa,5,5,200.0,SQ,131000000.0,655000.0,0.5,2.93,10,0.05,1.0,0,House
+Kileleshwa,Studio,1,1,48.0,SQ,4500000.0,93750.0,0.5,3.33,2,0.0417,1.0,0,Apartment
+South C,Apartment,2,2,152.0,"En Suite, Fibre, SQ",12500000.0,82236.84,1.5,3.4,4,0.0263,1.0,0,Apartment
+Westlands,Land,1,1,52.0,"SQ, Gate",5500000.0,105769.23,1.0,2.93,2,0.0385,1.0,0,Other
+Westlands,Land,1,1,41.0,SQ,5800000.0,141463.41,0.5,2.93,2,0.0488,1.0,0,Other
+Westlands,Land,1,1,59.0,SQ,7800000.0,132203.39,0.5,2.93,2,0.0339,1.0,0,Other
+Westlands,Maisonette,4,3,300.0,SQ,34000000.0,113333.33,0.5,2.93,7,0.0233,0.75,0,House
+Kabete,Land,1,1,33.0,SQ,3300000.0,100000.0,0.5,9.35,2,0.0606,1.0,0,Other
+Kilimani,Apartment,3,3,260.0,"Lift, SQ",15500000.0,59615.38,2.0,3.85,6,0.0231,1.0,0,Apartment
+Ridgeways,House,8,6,500.0,"Swimming Pool, SQ",110000000.0,220000.0,2.5,7.64,14,0.028,0.75,0,House
+Ridgeways,House,5,5,600.0,SQ,64000000.0,106666.67,0.5,7.64,10,0.0167,1.0,0,House
+Kileleshwa,Apartment,3,3,190.0,SQ,16500000.0,86842.11,0.5,3.33,6,0.0316,1.0,0,Apartment
+Kasarani,House,6,5,999.0,SQ,55000000.0,55055.06,0.5,11.8,11,0.011,0.83,0,House
+Imara Daima,Maisonette,4,4,250.0,"Security, SQ, Gate",15000000.0,60000.0,2.0,8.83,8,0.032,1.0,0,House
+Kileleshwa,Apartment,2,2,130.0,SQ,12500000.0,96153.85,0.5,3.33,4,0.0308,1.0,0,Apartment
+Parklands,Land,3,3,250.0,SQ,21500000.0,86000.0,0.5,2.72,6,0.024,1.0,0,Other
+Kileleshwa,Apartment,4,4,230.0,SQ,22000000.0,95652.17,0.5,3.33,8,0.0348,1.0,0,Apartment
+Kileleshwa,Apartment,2,2,90.0,SQ,8500000.0,94444.44,0.5,3.33,4,0.0444,1.0,0,Apartment
+Kileleshwa,Apartment,1,1,60.0,SQ,7500000.0,125000.0,0.5,3.33,2,0.0333,1.0,0,Apartment
+Westlands,Townhouse,4,4,1056.0,SQ,113000000.0,107007.58,0.5,2.93,8,0.0076,1.0,0,House
+Westlands,Studio,1,1,48.0,SQ,8200000.0,170833.33,0.5,2.93,2,0.0417,1.0,0,Apartment
+Parklands,Land,2,2,90.0,SQ,8000000.0,88888.89,0.5,2.72,4,0.0444,1.0,0,Other
+Parklands,Maisonette,4,4,2800.0,"SQ, Gate",22500000.0,8035.71,1.0,2.72,8,0.0029,1.0,0,House
+Nairobi,Bungalow,3,3,150.0,SQ,9500000.0,63333.33,0.5,0.0,6,0.04,1.0,0,House
+Kilimani,Apartment,1,1,43.0,SQ,5200000.0,120930.23,0.5,3.85,2,0.0465,1.0,0,Apartment
+Kilimani,Apartment,1,1,55.0,SQ,6500000.0,118181.82,0.5,3.85,2,0.0364,1.0,0,Apartment
+Nairobi,House,4,4,236.0,SQ,14000000.0,59322.03,0.5,0.0,8,0.0339,1.0,0,House
+Westlands,Land,1,1,67.0,"Gym, SQ, Intercom",7600000.0,113432.84,3.0,2.93,2,0.0299,1.0,0,Other
+Westlands,Land,1,1,104.0,SQ,6440000.0,61923.08,0.5,2.93,2,0.0192,1.0,0,Other
+Garden Estate,House,4,6,474.0,"Garden, SQ",55000000.0,116033.76,1.0,8.24,10,0.0211,1.5,0,House
+Westlands,Land,2,2,94.0,SQ,15540000.0,165319.15,0.5,2.93,4,0.0426,1.0,0,Other
+Dagoretti,Townhouse,1,3,49.0,"Security, Borehole, SQ, Gate",4900000.0,100000.0,3.0,7.67,4,0.0816,3.0,0,House
+Langata,House,4,4,260.0,SQ,35900000.0,138076.92,0.5,10.77,8,0.0308,1.0,0,House
+Westlands,Land,2,2,1700.0,SQ,22400000.0,13176.47,0.5,2.93,4,0.0024,1.0,0,Other
+Muthaiga,Apartment,2,2,185.0,SQ,13000000.0,70270.27,0.5,5.99,4,0.0216,1.0,0,Apartment
+Runda,Villa,4,4,350.0,"Security, SQ",52000000.0,148571.43,1.5,7.43,8,0.0229,1.0,0,House
+Westlands,Land,1,1,57.0,SQ,7700000.0,135087.72,0.5,2.93,2,0.0351,1.0,0,Other
+Nairobi,Bungalow,3,3,150.0,"SQ, Gate",9550000.0,63666.67,1.0,0.0,6,0.04,1.0,0,House
+Kileleshwa,House,4,4,270.0,SQ,29500000.0,109259.26,0.5,3.33,8,0.0296,1.0,0,House
+Karen,House,5,5,500.0,SQ,99000000.0,198000.0,0.5,12.49,10,0.02,1.0,0,House
+Roysambu,Commercial,1,2,465.0,"Borehole, SQ",122000000.0,262365.59,1.5,11.34,3,0.0065,2.0,0,Other
+Westlands,Land,3,3,198.0,SQ,22250000.0,112373.74,0.5,2.93,6,0.0303,1.0,0,Other
+Kilimani,Apartment,1,1,70.0,SQ,6900000.0,98571.43,0.5,3.85,2,0.0286,1.0,0,Apartment
+Dagoretti,Apartment,2,3,65.0,SQ,7800000.0,120000.0,0.5,7.67,5,0.0769,1.5,0,Apartment
+Komarock,House,6,5,400.0,SQ,23000000.0,57500.0,0.5,10.34,11,0.0275,0.83,0,House
+Kilimani,Apartment,2,2,75.0,SQ,7500000.0,100000.0,0.5,3.85,4,0.0533,1.0,0,Apartment
+Runda,House,5,5,500.0,SQ,110000000.0,220000.0,0.5,7.43,10,0.02,1.0,0,House
+Kilimani,Apartment,2,2,95.0,SQ,7500000.0,78947.37,0.5,3.85,4,0.0421,1.0,0,Apartment
+Hurlingham,Maisonette,3,3,190.0,"Swimming Pool, Gym, Garden, SQ, Gate, Laundry",23000000.0,121052.63,6.0,4.38,6,0.0316,1.0,0,House
+Kileleshwa,Apartment,1,1,55.0,SQ,7500000.0,136363.64,0.5,3.33,2,0.0364,1.0,0,Apartment
+Kilimani,Apartment,3,10,65.0,SQ,7200000.0,110769.23,0.5,3.85,13,0.2,3.33,0,Apartment
+Westlands,Land,1,1,65.0,SQ,7000000.0,107692.31,0.5,2.93,2,0.0308,1.0,0,Other
+Hurlingham,House,2,4,60.0,"Garden, SQ",11500000.0,191666.67,1.0,4.38,6,0.1,2.0,0,House
+Imara Daima,Apartment,3,2,1854.413242803784,"Garden, SQ, Laundry",13500000.0,7279.93,1.5,8.83,5,0.0027,0.67,0,Apartment
+Kilimani,Studio,1,1,23.11,SQ,2432000.0,105235.83,0.5,3.85,2,0.0865,1.0,0,Apartment
+Thome,Maisonette,5,6,1400.0,SQ,89000000.0,63571.43,0.5,7.25,11,0.0079,1.2,0,House
+Kileleshwa,Studio,1,1,42.0,SQ,4500000.0,107142.86,0.5,3.33,2,0.0476,1.0,0,Apartment
+Komarock,Maisonette,4,4,505.0,SQ,12500000.0,24752.48,0.5,10.34,8,0.0158,1.0,0,House
+Parklands,Land,3,3,2700.0,SQ,21000000.0,7777.78,0.5,2.72,6,0.0022,1.0,0,Other
+Kileleshwa,Maisonette,4,3,130.0,SQ,38000000.0,292307.69,0.5,3.33,7,0.0538,0.75,0,House
+Imara Daima,House,3,3,59.0,"Swimming Pool, Gym, SQ",10500000.0,177966.1,4.5,8.83,6,0.1017,1.0,0,House
+Kilimani,Apartment,2,5,80.0,"SQ, Laundry",9000000.0,112500.0,1.0,3.85,7,0.0875,2.5,0,Apartment
+Hurlingham,Apartment,3,3,134.0,SQ,15200000.0,113432.84,0.5,4.38,6,0.0448,1.0,0,Apartment
+Kileleshwa,Apartment,1,1,58.0,SQ,7500000.0,129310.34,0.5,3.33,2,0.0345,1.0,0,Apartment
+Westlands,Land,3,3,827.6994781553436,SQ,30000000.0,36245.04,0.5,2.93,6,0.0072,1.0,0,Other
+Kasarani,Bedsitter,2,3,786.0,SQ,26000000.0,33078.88,0.5,11.8,5,0.0064,1.5,0,Apartment
+Parklands,Land,5,5,1000.0,"Garden, SQ",160000000.0,160000.0,1.0,2.72,10,0.01,1.0,0,Other
+Langata,Maisonette,3,3,1140.0,SQ,15000000.0,13157.89,0.5,10.77,6,0.0053,1.0,0,House
+Kileleshwa,Apartment,3,3,208.0,SQ,19500000.0,93750.0,0.5,3.33,6,0.0288,1.0,0,Apartment
+Kahawa,House,5,5,400.0,"SQ, Gate",55000000.0,137500.0,1.0,16.05,10,0.025,1.0,0,House
+Ridgeways,Maisonette,6,5,450.0,"Swimming Pool, Gym, Garden, Lift, SQ, Store",70000000.0,155555.56,7.0,7.64,11,0.0244,0.83,0,House
+Kilimani,House,6,6,1000.0,"Swimming Pool, SQ",65000000.0,65000.0,2.5,3.85,12,0.012,1.0,0,House
+Westlands,Land,1,1,41.0,SQ,5800000.0,141463.41,0.5,2.93,2,0.0488,1.0,0,Other
+Lavington,House,5,5,370.0,"SQ, Store",80000000.0,216216.22,1.0,5.48,10,0.027,1.0,0,House
+Garden Estate,Villa,5,7,350.0,"Garden, SQ",75000000.0,214285.71,1.0,8.24,12,0.0343,1.4,0,House
+Nairobi,Apartment,3,3,300.0,"Garden, SQ",14500000.0,48333.33,1.0,0.0,6,0.02,1.0,0,Apartment
+Lavington,Apartment,3,3,170.0,SQ,23000000.0,135294.12,0.5,5.48,6,0.0353,1.0,0,Apartment
+Kilimani,Apartment,2,2,70.0,SQ,7500000.0,107142.86,0.5,3.85,4,0.0571,1.0,0,Apartment
+Hurlingham,Land,3,3,205.0,SQ,29500000.0,143902.44,0.5,4.38,6,0.0293,1.0,0,Other
+Lavington,Maisonette,5,5,450.0,SQ,75000000.0,166666.67,0.5,5.48,10,0.0222,1.0,0,House
+Valley Arcade,Apartment,3,3,138.0,SQ,12800000.0,92753.62,0.5,3.71,6,0.0435,1.0,0,Apartment
+Roysambu,Commercial,1,2,464.0,SQ,120000000.0,258620.69,0.5,11.34,3,0.0065,2.0,0,Other
+South C,Apartment,2,2,180.0,SQ,8000000.0,44444.44,0.5,3.4,4,0.0222,1.0,0,Apartment
+Kilimani,Apartment,3,3,186.0,SQ,12500000.0,67204.3,0.5,3.85,6,0.0323,1.0,0,Apartment
+Kitisuru,Villa,5,6,900.0,SQ,75000000.0,83333.33,0.5,6.42,11,0.0122,1.2,0,House
+Kileleshwa,Apartment,3,3,236.0,SQ,22000000.0,93220.34,0.5,3.33,6,0.0254,1.0,0,Apartment
+Kilimani,Apartment,3,3,176.53311115283998,SQ,13500000.0,76472.91,0.5,3.85,6,0.034,1.0,0,Apartment
+Thome,House,3,3,134.0,"Gym, Lift, SQ",14500000.0,108208.96,4.0,7.25,6,0.0448,1.0,0,House
+Karen,Maisonette,5,2,550.0,"Gym, SQ, Gate",155000000.0,281818.18,3.0,12.49,7,0.0127,0.4,0,House
+Hurlingham,Apartment,3,3,250.0,SQ,20000000.0,80000.0,0.5,4.38,6,0.024,1.0,0,Apartment
+Hurlingham,Apartment,3,3,173.0,SQ,18500000.0,106936.42,0.5,4.38,6,0.0347,1.0,0,Apartment
+Kileleshwa,House,4,4,338.0,SQ,34000000.0,100591.72,0.5,3.33,8,0.0237,1.0,0,House
+Kilimani,Apartment,2,2,61.0,SQ,6200000.0,101639.34,0.5,3.85,4,0.0656,1.0,0,Apartment
+Karen,Villa,5,4,600.0,SQ,155000000.0,258333.33,0.5,12.49,9,0.015,0.8,0,House
+Westlands,Land,5,5,400.0,SQ,110000000.0,275000.0,0.5,2.93,10,0.025,1.0,0,Other
+Githurai,Bedsitter,1,4,465.0,SQ,34500000.0,74193.55,0.5,18.16,5,0.0108,4.0,0,Apartment
+South C,Land,4,4,650.0,SQ,110000000.0,169230.77,0.5,3.4,8,0.0123,1.0,0,Other
+Donholm,Maisonette,4,5,160.0,"SQ, Gate",18000000.0,112500.0,1.0,8.87,9,0.0562,1.25,0,House
+Kilimani,Apartment,3,3,118.0,SQ,14800000.0,125423.73,0.5,3.85,6,0.0508,1.0,0,Apartment
+Runda,Villa,5,4,500.0,SQ,150000000.0,300000.0,0.5,7.43,9,0.018,0.8,0,House
+Zimmerman,Commercial,1,2,465.0,SQ,151000000.0,324731.18,0.5,3.85,3,0.0065,2.0,0,Other
+Ridgeways,Maisonette,5,4,500.0,SQ,150000000.0,300000.0,0.5,7.64,9,0.018,0.8,0,House
+Hurlingham,House,4,4,295.0,SQ,29000000.0,98305.08,0.5,4.38,8,0.0271,1.0,0,House
+Kitisuru,Apartment,2,2,112.0,SQ,12500000.0,111607.14,0.5,6.42,4,0.0357,1.0,0,Apartment
+Komarock,Maisonette,4,4,550.0,SQ,11000000.0,20000.0,0.5,10.34,8,0.0145,1.0,0,House
+Karen,Villa,5,5,600.0,SQ,99000000.0,165000.0,0.5,12.49,10,0.0167,1.0,0,House
+Garden Estate,House,4,6,350.0,"Garden, SQ",55000000.0,157142.86,1.0,8.24,10,0.0286,1.5,0,House
+South C,Apartment,3,3,1005.6464101572044,Gate,18000000.0,17898.94,0.5,3.4,6,0.006,1.0,0,Apartment
+Kilimani,Apartment,4,4,1000.0,"Swimming Pool, Gym, Balcony, SQ",27800000.0,27800.0,5.0,3.85,8,0.008,1.0,0,Apartment
+Kileleshwa,Apartment,2,2,125.0,SQ,14500000.0,116000.0,0.5,3.33,4,0.032,1.0,0,Apartment
+Kilimani,Apartment,1,1,31.0,SQ,3400000.0,109677.42,0.5,3.85,2,0.0645,1.0,0,Apartment
+Kiambu,Townhouse,4,4,310.0,SQ,65000000.0,209677.42,0.5,12.98,8,0.0258,1.0,0,House
+Kileleshwa,Apartment,2,2,166.0,SQ,14000000.0,84337.35,0.5,3.33,4,0.0241,1.0,0,Apartment
+Dagoretti,Townhouse,6,6,250.0,SQ,25000000.0,100000.0,0.5,7.67,12,0.048,1.0,0,House
+Westlands,Land,2,2,110.0,"Swimming Pool, Gym, Lift, SQ, Laundry",14500000.0,131818.18,6.5,2.93,4,0.0364,1.0,0,Other
+Kileleshwa,Apartment,4,4,260.0,SQ,23500000.0,90384.62,0.5,3.33,8,0.0308,1.0,0,Apartment
+Garden Estate,Commercial,5,6,450.0,"Garden, SQ",90000000.0,200000.0,1.0,8.24,11,0.0244,1.2,0,Other
+Westlands,Land,1,1,55.0,"Parking, SQ",6200000.0,112727.27,1.0,2.93,2,0.0364,1.0,0,Other
+Kahawa,Apartment,2,2,70.0,SQ,5100000.0,72857.14,0.5,16.05,4,0.0571,1.0,0,Apartment
